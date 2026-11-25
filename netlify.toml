@@ -1,0 +1,7 @@
+[build]
+  publish = "."
+
+[[redirects]]
+  from = "/"
+  to = "/Mohammed_Nishan_Portfolio_Resume.html"
+  status = 200
